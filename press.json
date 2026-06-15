@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Sperm whales may make their own vowel sounds, similar to human language",
+    "category": "press",
+    "publication": "Scientific American",
+    "date": "2026-04-14",
+    "description": "Sperm whales, which make clicking sounds to communicate, use different “vowels” in ways similar to human speech.",
+    "url": "https://www.scientificamerican.com/article/sperm-whales-may-make-their-own-vowel-sounds-similar-to-human-language/",
+    "image": "https://static.scientificamerican.com/dam/asset/f1b8a78f-22ef-4744-9887-bf17253f48fd/Sperm-whale-with-open-mouth.jpg?m=1776199270.271&w=1350",
+    "featured": false,
+    "home-featured": false
+  },
+  {
+    "title": "Wild Resonance #1: Animal syntax in the trees and seas: A conversation with Dr. Mason Youngblood",
+    "category": "press",
+    "publication": "Wild Resonance",
+    "date": "2025-08-07",
+    "description": "Dr. Youngblood and Stephen explore Mason's fascinating research on vocal efficiency in house finches and cetaceans.",
+    "url": "https://www.youtube.com/watch?v=1gEI7Ihibac",
+    "image": "https://masonyoungblood.com/images/press/wild_resonance.png",
+    "featured": false,
+    "home-featured": false
+  },
+  {
+    "title": "More than a billion birds could be dying from flying into buildings each year in the U.S.",
+    "category": "press",
+    "publication": "Popular Science",
+    "date": "2024-08-07",
+    "description": "We are losing them even if we don’t see them.",
+    "url": "https://www.popsci.com/environment/birds-die-buildings/",
+    "image": "https://www.popsci.com/wp-content/uploads/2024/08/dead-bird-hand.jpg?quality=85&w=1536",
+    "featured": false,
+    "home-featured": true
+  },
+  {
+    "title": "All languages follow this pattern: So does humpback whale song",
+    "category": "press",
+    "publication": "New York Times",
+    "date": "2025-02-06",
+    "description": "The animals’ complex songs share structural patterns with human language that may make them easier for whales to learn.",
+    "url": "https://www.nytimes.com/2025/02/06/science/language-humpback-whale-song.html",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Humpback_whale_%28Megaptera_novaeangliae%29_with_calf_Moorea_2.jpg/1920px-Humpback_whale_%28Megaptera_novaeangliae%29_with_calf_Moorea_2.jpg?_=20241126110646",
+    "featured": true,
+    "home-featured": true
+  },
+  {
+    "title": "Whale songs obey basic rules of human languages",
+    "category": "press",
+    "publication": "Scientific American",
+    "date": "2025-02-06",
+    "description": "For all the world’s linguistic diversity, human languages still obey some universal patterns—and humpback whale song follows many of the same rules.",
+    "url": "https://www.scientificamerican.com/article/whale-songs-follow-basic-human-language-rules/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Baleine_%C3%A0_bosse_et_son_baleineau_2.jpg/1920px-Baleine_%C3%A0_bosse_et_son_baleineau_2.jpg?_=20170630210219",
+    "featured": false,
+    "home-featured": false
+  },
+  {
+    "title": "What the science of baby-speak can tell us about whale songs",
+    "category": "press",
+    "publication": "National Geographic",
+    "date": "2025-02-06",
+    "description": "Just like popular songs on TikTok, new humpback whale songs can rapidly spread across regions and populations to replace older melodies.",
+    "url": "https://www.nationalgeographic.com/animals/article/whale-song-human-language-similar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/025_Humpback_whale_at_Disko_Bay_%28Greenland%29_Photo_by_Giles_Laurent.jpg/1920px-025_Humpback_whale_at_Disko_Bay_%28Greenland%29_Photo_by_Giles_Laurent.jpg?_=20231223233930",
+    "featured": false,
+    "home-featured": true
+  },
+  {
+    "title": "Humpback whale songs have patterns that resemble human language",
+    "category": "press",
+    "publication": "New Scientist",
+    "date": "2025-02-06",
+    "description": "Humpback whale songs have statistical patterns in their structure that are remarkably similar to those seen in human language.",
+    "url": "https://www.newscientist.com/article/2467170-humpback-whale-songs-have-patterns-that-resemble-human-language/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Humpback_whales_in_singing_position.jpg?_=20050318171015",
+    "featured": false,
+    "home-featured": false
+  },
+  {
+    "title": "Whalesong patterns follow a universal law of human language: New research finds",
+    "category": "press",
+    "publication": "The Conversation",
+    "date": "2025-02-06",
+    "description": "Techniques inspired by how human infants learn language reveal that whale song shares statistically coherent parts and Zipfian frequency distributions with human speech.",
+    "url": "https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/030_Humpback_whale_lobtailing_Photo_by_Giles_Laurent.jpg/1920px-030_Humpback_whale_lobtailing_Photo_by_Giles_Laurent.jpg?_=20231227223645",
+    "featured": false,
+    "home-featured": false
+  },
+  {
+    "title": "Canada's sparrows are singing a new song: You'll hear it soon",
+    "category": "press",
+    "publication": "New York Times",
+    "date": "2020-07-02",
+    "description": "Over 20 years, scientists tracked the transformation of the traditional trill of a common bird from western Canada to Ontario.",
+    "url": "https://www.nytimes.com/2020/07/02/science/sparrow-bird-song.html",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zonotrichia_albicollis_CT1.jpg/1920px-Zonotrichia_albicollis_CT1.jpg?_=20110517162751",
+    "featured": false,
+    "home-featured": false
+  }
+]
