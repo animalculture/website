@@ -34,7 +34,9 @@
         "url": "https://reforesters.io/"
       }
     ],
-    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/reed_circuit_reforesters_2026.png?raw=true"]
+    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/reed_circuit_reforesters_2026.png?raw=true"],
+    "imageWidth": 973,
+    "imageHeight": 546
   },
   {
     "title": "Alaka’i 1777",
@@ -108,7 +110,9 @@
     ],
     "images": [
       "https://github.com/masonyoungblood/website/blob/main/docs/images/art/new_museum_2026g_russell_low.jpg?raw=true"
-    ]
+    ],
+    "imageWidth": 7728,
+    "imageHeight": 5152
   },
   {
     "title": "Language-like efficiency in whale communication",
@@ -141,7 +145,9 @@
         "url": "https://www.mise-en.org/"
       }
     ],
-    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/involuntary_ghosts_james_tuite_2026.jpg?raw=true"]
+    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/involuntary_ghosts_james_tuite_2026.jpg?raw=true"],
+    "imageWidth": 973,
+    "imageHeight": 547
   },
   {
     "title": "Vocal efficiency in crows",
@@ -197,7 +203,9 @@
     "fullDescription": "",
     "links": [],
     "appearances": [],
-    "images": []
+    "images": [],
+    "imageWidth": 973,
+    "imageHeight": 550
   },
   {
     "title": "Temporal stability in songs across the breeding range of Geothlypis philadelphia (mourning warbler) may be due to learning fidelity and transmission biases",
@@ -274,7 +282,9 @@
         "url": "https://www.st-andrews.ac.uk/"
       }
     ],
-    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/deep_listening_2025.jpg?raw=true"]
+    "images": ["https://github.com/masonyoungblood/website/blob/main/docs/images/art/deep_listening_2025.jpg?raw=true"],
+    "imageWidth": 973,
+    "imageHeight": 732
   },
   {
     "title": "All intelligence is collective intelligence",
