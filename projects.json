@@ -48,16 +48,7 @@
     "externalLink": null,
     "featured": true,
     "fullDescription": "Alakaʻi 1777 is an immersive audiovisual installation that reconstructs the lost song culture of the Kauaʻi ʻōʻō, an extinct Hawaiian bird once native to the Alakaʻi swamp.\n\n The work is inspired by a simple premise—when populations collapse, so do their learned traditions and vocal cultures that have built up over generations. In Alakaʻi 1777, interacting artificial agents sing from a mathematical model of the avian vocal organ (the syrinx), trained on the few surviving recordings of the species. These voices are nestled within site-specific ecological data from the ʻōʻō’s last known habitat: LiDAR scans of the forest, spatial audio recordings of the dawn chorus, and urbanization histories rendered as sound and image.\n\nTo give listeners a deeper sense of this lost world, the entire soundscape is slowed down, allowing them to experience the songs as the original inhabitants of Alakaʻi may have perceived them. Within this expanded space, artificial agents act as spectral ancestors, engaging in a dynamic, multi-layered dialogue with real Kauaʻi ʻōʻō recordings, offering a glimpse into a richer, more intricate soundscape that vanished long before the last bird fell.",
-    "links": [
-      {
-        "label": "Github",
-        "url": null
-      },
-      {
-        "label": "Documentation",
-        "url": null
-      }
-    ],
+    "links": [],
     "appearances": [
       {
         "label": "Earthfest by New Ear:: SPATIAL at Reforesters Laboratory (Brooklyn, NY, Apr 21, 2026)",
