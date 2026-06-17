@@ -166,7 +166,7 @@
     "fullDescription": "",
     "links": [],
     "appearances": [],
-    "images": [],
+    "images": ["https://raw.githubusercontent.com/masonyoungblood/website/refs/heads/main/docs/images/misc/whale_human_compare.png"],
     "imageWidth": 952,
     "imageHeight": 409
   },
