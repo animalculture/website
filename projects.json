@@ -158,7 +158,7 @@
     "title": "Convergent evolution in whale and human vocal cultures",
     "category": "research",
     "description": "Science, 2025 | DOI 10.1126/science.adv2318",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/masonyoungblood/website/refs/heads/main/docs/images/misc/whale_human_compare.png",
     "slug": null,
     "pageType": "external",
     "externalLink": "https://doi.org/10.1126/science.adv2318",
@@ -166,7 +166,9 @@
     "fullDescription": "",
     "links": [],
     "appearances": [],
-    "images": []
+    "images": [],
+    "imageWidth": 952,
+    "imageHeight": 409
   },
   {
     "title": "chatter: A Python library for applying information theory and AI/ML models to animal communication",
